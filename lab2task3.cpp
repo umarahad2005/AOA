@@ -31,7 +31,7 @@ int main() {
     cout << "Welcome to the world of Analysis of Algorithms with Umar Ahad Usmani (SAP: 60199)" << endl;
 
     string target;
-    cout << "Enter the numeric password to crack (max 3 digits, only 0–9): ";
+    cout << "Enter the numeric password to crack (max 3 digits, only 0 to 9): ";
     cin >> target;
 
     string charset = "0123456789";
